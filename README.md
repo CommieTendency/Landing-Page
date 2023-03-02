@@ -1,1 +1,2 @@
 # Landing-Page
+The point of this project is to create a landing page for a website. This will show ability and aptitude in using HTML & CSS to create a commonly used layout that many organizations, businesses, and institutions use for their websites
